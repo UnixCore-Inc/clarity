@@ -25,7 +25,6 @@ body {
 }
 
 ```
-
 diventa:
 
 ```css
